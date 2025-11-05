@@ -1,0 +1,158 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analyze Food - RECIPE Builder</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/dark-mode.css' %}" />
+    <link rel="stylesheet" href="{% static 'fonts/custom-fonts.css' %}" />
+  </head>
+
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="container">
+        <nav class="navbar">
+          <a href="{% url 'index' %}" class="logo">RECIPE Builder</a>
+          <ul class="nav-links">
+            <li><a href="{% url 'index' %}">Home</a></li>
+            <li>
+              <a href="{% url 'upload_image' %}" class="active">Analyze Food</a>
+            </li>
+            <li><a href="{% url 'index' %}#how-it-works">How It Works</a></li>
+            <li>
+              <button id="darkModeToggle" class="dark-mode-btn">
+                <i class="fas fa-moon"></i>
+              </button>
+            </li>
+          </ul>
+          <div class="mobile-menu">
+            <i class="fas fa-bars"></i>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Upload Section -->
+    <section class="food-recognition">
+      <div class="container">
+        <h1 class="food-font">Analyze Your Food</h1>
+        <p>
+          Upload a picture of your food to discover its ingredients and get
+          step-by-step cooking instructions
+        </p>
+
+        <div class="recognition-container">
+          <div class="upload-area" id="uploadArea">
+            <i class="fas fa-cloud-upload-alt"></i>
+            <h3>Upload Food Image</h3>
+            <p>Click here or drag and drop your image</p>
+            <p class="file-types">
+              Supported formats: JPG, PNG, WebP (Max 5MB)
+            </p>
+            <input type="file" id="imageUpload" accept="image/*" />
+          </div>
+
+          <div class="preview-container" id="previewContainer">
+            <h3>Your Food Image</h3>
+            <div class="image-wrapper">
+              <img id="imagePreview" src="" alt="Food preview" />
+              <button class="btn-remove" id="removeImage">
+                <i class="fas fa-times"></i>
+              </button>
+            </div>
+            <button class="btn" id="analyzeBtn">Analyze Food</button>
+          </div>
+
+          <div class="loading-container" id="loadingContainer">
+            <div class="loading-spinner">
+              <i class="fas fa-utensils fa-spin"></i>
+            </div>
+            <h3>Analyzing Your Food...</h3>
+            <p>Our AI is identifying ingredients and preparing your recipe</p>
+          </div>
+
+          <div class="results-container" id="resultsContainer">
+            <h2 class="food-font">Analysis Results</h2>
+            <div class="food-info">
+              <div class="food-image">
+                <img id="resultImage" src="" alt="Analyzed food" />
+              </div>
+              <div class="food-details">
+                <h3 id="foodName">Delicious Meal</h3>
+                <div class="food-meta">
+                  <span class="meta-item"
+                    ><i class="fas fa-clock"></i
+                    ><span id="cookTime">30 mins</span></span
+                  >
+                  <span class="meta-item"
+                    ><i class="fas fa-user-friends"></i
+                    ><span id="servings">4 servings</span></span
+                  >
+                  <span class="meta-item"
+                    ><i class="fas fa-fire"></i
+                    ><span id="calories">350 cal</span></span
+                  >
+                </div>
+              </div>
+            </div>
+
+            <div class="results-grid">
+              <div class="ingredients-list">
+                <h3><i class="fas fa-list"></i> Ingredients</h3>
+                <ul id="ingredientsList"></ul>
+              </div>
+              <div class="steps-list">
+                <h3>
+                  <i class="fas fa-mortar-pestle"></i> Cooking Instructions
+                </h3>
+                <ol id="stepsList"></ol>
+              </div>
+            </div>
+
+            <div class="action-buttons">
+              <button class="btn" id="saveRecipe">
+                <i class="fas fa-bookmark"></i> Save Recipe
+              </button>
+              <button class="btn btn-secondary" id="analyzeAnother">
+                <i class="fas fa-redo"></i> Analyze Another
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <a href="{% url 'index' %}" class="logo">RECIPE Builder</a>
+        <ul class="footer-links">
+          <li><a href="{% url 'index' %}">Home</a></li>
+          <li><a href="{% url 'upload_image' %}">Analyze Food</a></li>
+          <li><a href="{% url 'index' %}#how-it-works">How It Works</a></li>
+          <li><a href="{% url 'index' %}#contact">Contact</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+        </ul>
+        <div class="social-icons">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+        <p>&copy; 2025 RECIPE Builder. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="{% static 'js/main.js' %}"></script>
+    <script src="{% static 'js/dark-mode.js' %}"></script>
+    <script src="{% static 'js/upload.js' %}"></script>
+  </body>
+</html>

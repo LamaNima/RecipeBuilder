@@ -63,8 +63,8 @@ print(allLables.shape)
 
 # Saving processed data into .npy format
 print("Save the data .......")
-np.save(r"C:\Users\NimaLama\OneDrive\Desktop\Model_Training_and_Evaluation\new_images.npy", allImages)
-np.save(r"C:\Users\NimaLama\OneDrive\Desktop\Model_Training_and_Evaluation\new_labels.npy", allLables)
+np.save(r"C:\Users\NimaLama\OneDrive\Desktop\Model_Training_and_Evaluation\images_densenet.npy", allImages)
+np.save(r"C:\Users\NimaLama\OneDrive\Desktop\Model_Training_and_Evaluation\labels_densenet.npy", allLables)
 print("Finish save the data .......")
 
 

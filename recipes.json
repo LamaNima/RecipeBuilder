@@ -1,0 +1,696 @@
+[
+  {
+    "category": "momo",
+    "recipes": [
+      {
+        "name": "Buff Momo",
+        "cooking_time": "25-35 mins",
+        "ingredients": "500g minced buffalo meat, 1 cup finely chopped onions, 2 tbsp ginger-garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp black pepper, 1/2 tsp turmeric powder, 1/4 tsp garam masala, 2 tbsp soy sauce, Salt to taste, Momo dough",
+        "directions": "1. Mix minced buffalo meat with chopped onions, ginger-garlic paste, cumin, coriander, turmeric, pepper, garam masala, soy sauce, and salt.\n2. Prepare momo dough separately.\n3. Roll out small circles of dough, place filling inside, and fold into dumplings.\n4. Steam the momos for 10-12 minutes until cooked through.\n5. Serve hot with achar or dipping sauce."
+      },
+      {
+        "name": "Chicken Momo",
+        "cooking_time": "25-35 mins",
+        "ingredients": "500g minced chicken (preferably thigh meat), 1 cup finely chopped onions, 1/2 cup chopped green onions, 2 tbsp ginger-garlic paste, 1-1.5 tbsp momo masala or garam masala, 1 tbsp mustard oil or melted butter, Salt to taste, Momo dough",
+        "directions": "1. Combine minced chicken with chopped onions, green onions, ginger-garlic paste, momo or garam masala, mustard oil, and salt.\n2. Prepare momo dough.\n3. Roll out dough into small circles, add filling, and seal as dumplings.\n4. Steam momos for 10-12 minutes until fully cooked.\n5. Serve with spicy tomato achar or chutney."
+      },
+      {
+        "name": "Veg Momo",
+        "cooking_time": "25-30 mins",
+        "ingredients": "1 cup finely chopped cabbage, 1/2 cup grated carrots, 1/4 cup peas, 1/2 tsp ginger-garlic paste, 1 tbsp soy sauce, Salt to taste, Momo dough",
+        "directions": "1. Prepare dough for momo.\n2. Sauté ginger-garlic paste and add vegetables.\n3. Add soy sauce and salt, cook until tender.\n4. Roll dough, fill with veggie mixture, and seal edges.\n5. Steam for 10-12 minutes and serve with achar."
+      },
+      {
+        "name": "Jhol Momo",
+        "cooking_time": "25-35 mins",
+        "ingredients": "20 steamed momos (chicken, buffalo, or vegetable), 2 tomatoes, 1 onion, 4 cloves garlic, 1-inch ginger, 2 green chilies, 1 tbsp mustard oil, 1 tbsp soy sauce, 1 tbsp vinegar, 1 tbsp tamarind paste (optional), Salt to taste, 1-2 cups water, Fresh cilantro",
+        "directions": "1. Prepare the filling and steam the momos.\n2. Blend tomatoes, onion, garlic, ginger, and green chilies into a smooth paste.\n3. Heat mustard oil in a pan, and cook the blended paste for 5-7 minutes.\n4. Add soy sauce, vinegar, tamarind paste, and water. Simmer to form a broth.\n5. Add steamed momos to the broth and let soak for a few minutes.\n6. Garnish with fresh cilantro and serve hot."
+      },
+      {
+        "name": "Fried Momo",
+        "cooking_time": "15-25 mins",
+        "ingredients": "20 steamed momos (chicken, buffalo, or vegetable), 1 cup oil (for frying), Salt to taste, 1 tbsp soy sauce (optional)",
+        "directions": "1. Steam the momos as usual with your choice of filling.\n2. Heat oil in a pan and deep-fry the steamed momos until golden and crispy.\n3. Remove momos and drain excess oil using paper towels.\n4. Optionally, toss fried momos in soy sauce for added flavor.\n5. Serve with achar or your favorite dipping sauce."
+      },
+      {
+        "name": "Chilli Momo",
+        "cooking_time": "25-30 mins",
+        "ingredients": "20 fried momos (chicken, buffalo, or vegetable), 2 tbsp oil, 1 onion sliced, 2 green chilies sliced, 1 bell pepper sliced, 2 tbsp soy sauce, 1 tbsp tomato ketchup, Salt to taste, Fresh coriander",
+        "directions": "1. Fry the momos as described in the Fried Momo recipe.\n2. In a pan, sauté onions, green chilies, and bell peppers until soft.\n3. Add soy sauce, ketchup, and salt. Cook for a minute.\n4. Toss fried momos into the pan and coat with the spicy chili sauce.\n5. Garnish with fresh coriander and serve with extra dipping sauce."
+      },
+      {
+        "name": "Tandoori Momo",
+        "cooking_time": "40-45 mins",
+        "ingredients": "20 steamed momos (chicken, buffalo, or vegetable), 1/2 cup yogurt, 1 tbsp tandoori masala, 1 tbsp garlic paste, 1 tbsp ginger paste, 1 tbsp lemon juice, Salt to taste",
+        "directions": "1. Prepare steamed momos with your choice of filling.\n2. Mix yogurt, tandoori masala, garlic paste, ginger paste, lemon juice, and salt.\n3. Coat the steamed momos with marinade and let sit for 30 mins.\n4. Preheat grill or oven to medium-high heat.\n5. Grill the momos for 10-15 minutes until slightly charred and smoky.\n6. Serve with yogurt or mint chutney."
+      },
+      {
+        "name": "Kothey Momo",
+        "cooking_time": "30-40 mins",
+        "ingredients": "20 steamed momos (chicken, buffalo, or vegetable), 1/2 cup oil (for shallow frying)",
+        "directions": "1. Prepare steamed momos with your choice of filling.\n2. Heat oil in a pan and shallow fry the momos.\n3. Fry until the bottom turns golden and crispy while the top remains soft.\n4. Serve with achar or dipping sauce."
+      },
+      {
+        "name": "Paneer Momo",
+        "cooking_time": "25-35 mins",
+        "ingredients": "1 cup paneer (cottage cheese) crumbled, 1/2 cup finely chopped onions, 1 tbsp ginger-garlic paste, 1/4 tsp cumin powder, 1/4 tsp garam masala, Salt to taste, Momo dough",
+        "directions": "1. Prepare momo dough.\n2. Sauté onions and ginger-garlic paste, then add crumbled paneer, cumin powder, garam masala, and salt.\n3. Roll out dough into small circles, place the paneer mixture inside, and fold dumplings.\n4. Steam for 10-12 minutes and serve with tangy dipping sauce."
+      },
+      {
+        "name": "Cheese Momo",
+        "cooking_time": "25-30 mins",
+        "ingredients": "1 cup grated cheese (cheddar or mozzarella), 1 tbsp chopped green chilies, 1/2 tsp black pepper, Momo dough",
+        "directions": "1. Mix cheese, green chilies, and black pepper.\n2. Roll out dough, place cheese mixture inside, and fold dumplings.\n3. Steam for 10-12 minutes and serve with dipping sauce."
+      }
+    ]
+  },
+  {
+    "category": "burger",
+    "recipes": [
+      {
+        "name": "Chicken Burger",
+        "cooking_time": "15-20 mins",
+        "ingredients": "Chicken patty, burger bun, lettuce, tomato, cheese, mayonnaise, ketchup",
+        "directions": "1. Preheat grill or pan to medium-high heat.\n2. Season chicken patty with salt and pepper.\n3. Grill for about 6-7 minutes per side or until internal temperature reaches 165°F.\n4. Toast burger buns.\n5. Spread mayonnaise on bottom bun, ketchup on top bun.\n6. Add lettuce, tomato, chicken patty, cheese.\n7. Close burger and serve hot."
+      },
+      {
+        "name": "Veggie Burger",
+        "cooking_time": "15-20 mins",
+        "ingredients": "Veggie patty, burger bun, lettuce, tomato, cheese, pickles, sauces",
+        "directions": "1. Cook veggie patty until golden brown (about 6-8 minutes total).\n2. Toast buns.\n3. Spread mayonnaise and mustard.\n4. Assemble with lettuce, tomato, pickles, cheese, and sauces.\n5. Serve immediately."
+      },
+      {
+        "name": "Cheese Burger",
+        "cooking_time": "15-18 mins",
+        "ingredients": "Beef patty, burger bun, cheddar cheese, lettuce, tomato, onions, ketchup",
+        "directions": "1. Preheat grill or pan to medium-high heat.\n2. Grill beef patty for about 4-5 minutes per side, or until internal temperature reaches 160°F.\n3. Melt cheddar cheese on top during the last minute of cooking.\n4. Toast buns.\n5. Assemble with lettuce, tomato, onions, patty, and cheese.\n6. Serve hot."
+      },
+      {
+        "name": "Ham Burger",
+        "cooking_time": "10-12 mins",
+        "ingredients": "Ham slices, burger bun, lettuce, tomato, cheese, mustard, mayonnaise",
+        "directions": "1. Cook ham slices 2-3 minutes per side until slightly browned.\n2. Toast buns.\n3. Spread mustard and mayonnaise.\n4. Assemble with lettuce, tomato, ham, cheese.\n5. Serve immediately."
+      },
+      {
+        "name": "Spicy Chicken Burger",
+        "cooking_time": "15-20 mins",
+        "ingredients": "Spicy chicken patty, burger bun, lettuce, tomato, jalapenos, cheese, hot sauce",
+        "directions": "1. Preheat grill or pan to medium-high heat.\n2. Grill spicy chicken patty for about 6-7 minutes per side until internal temperature reaches 165°F.\n3. Toast buns.\n4. Spread mayonnaise and hot sauce.\n5. Assemble with lettuce, tomato, jalapenos, cheese, and patty.\n6. Serve hot."
+      },
+      {
+        "name": "Garlic Truffle Burger",
+        "cooking_time": "20-25 mins",
+        "ingredients": "Ground beef, roasted garlic, truffle oil, provolone cheese, caramelized onions, arugula, garlic aioli, brioche bun",
+        "directions": "1. Mix ground beef with roasted garlic and a dash of truffle oil.\n2. Form patties and grill to medium (about 4-5 minutes per side).\n3. Top with provolone and caramelized onions during last minute.\n4. Toast brioche buns.\n5. Spread garlic aioli, add arugula, patty with toppings.\n6. Serve immediately."
+      },
+      {
+        "name": "Sweet & Spicy Hawaiian Burger",
+        "cooking_time": "20-25 mins",
+        "ingredients": "Ground beef, cayenne, brown sugar, grilled pineapple, pepper jack cheese, bacon, sweet chili sauce, Hawaiian roll",
+        "directions": "1. Add cayenne and brown sugar to ground beef and form patties.\n2. Grill patties about 4-5 minutes per side.\n3. Grill pineapple slices separately.\n4. Add pepper jack cheese and bacon to patties during last minute.\n5. Assemble on toasted Hawaiian rolls with sweet chili sauce and grilled pineapple.\n6. Serve hot."
+      },
+      {
+        "name": "French Onion Smash Burger",
+        "cooking_time": "15-20 mins",
+        "ingredients": "Ground beef, gruyère cheese, slow-cooked French onions, Dijon mustard, hamburger bun, au jus (optional)",
+        "directions": "1. Smash two thin beef patties on hot skillet.\n2. Cook until crispy edges form (~3 minutes per side).\n3. Add gruyère and French onions between patties.\n4. Toast buns and spread Dijon mustard.\n5. Serve with au jus for dipping.\n6. Serve hot."
+      },
+      {
+        "name": "Caprese Burger",
+        "cooking_time": "15-20 mins",
+        "ingredients": "Ground beef (or alternative), fresh mozzarella, ripe tomato, basil leaves, balsamic glaze, pesto mayo, ciabatta roll",
+        "directions": "1. Grill beef patties to desired doneness (4-5 mins per side).\n2. Top with thick slices of mozzarella.\n3. Toast ciabatta rolls.\n4. Assemble with tomato, basil, drizzle balsamic glaze and pesto mayo.\n5. Serve immediately."
+      },
+      {
+        "name": "Blue Cheese + Balsamic Burger",
+        "cooking_time": "15-20 mins",
+        "ingredients": "Ground beef, crumbled blue cheese, balsamic-glazed mushrooms, fresh spinach, fig jam, burger bun",
+        "directions": "1. Grill beef patties to medium (4-5 minutes per side).\n2. Top with crumbled blue cheese.\n3. Sauté mushrooms with balsamic glaze.\n4. Toast buns and spread fig jam.\n5. Assemble with spinach, patty, mushrooms.\n6. Serve hot."
+      }
+    ]
+  },
+  {
+    "category": "chatamari",
+    "recipes": [
+      {
+        "name": "Traditional Chatamari",
+        "cooking_time": "40 mins",
+        "ingredients": "2 cups rice flour, 3/4 cup water, 250 grams minced meat (chicken, turkey, lamb, or buffalo), 4 eggs, 1/2 cup chopped onion, 1/4 cup chopped coriander, 1/2 cup chopped tomato, 1 tbsp green diced chili, 1 tbsp green peas (optional), 1 tsp garlic and ginger paste, 2 tsp cumin powder, 2 tsp coriander powder, 1 tsp turmeric powder, 1 tsp paprika powder, 1 tsp meat masala or curry powder, 1 tbsp oil per chatamari, salt to taste",
+        "directions": "1. Mix rice flour with water gradually to form a smooth, thin batter.\n2. In a separate bowl, combine minced meat with onion, coriander, tomato, green chili, green peas, garlic-ginger paste, cumin, coriander, turmeric, paprika, meat masala, and salt.\n3. Heat 1 tablespoon oil in a non-stick pan over medium heat.\n4. Pour ladleful of batter into pan and spread thinly like a crepe.\n5. Quickly spread a portion of meat mixture on top.\n6. Sprinkle onions, tomatoes, coriander, green chili, and crack an egg or just yolk on top.\n7. Cover with lid and cook on low heat for 3-5 minutes until egg is cooked and edges turn crisp.\n8. Once cooked, remove carefully and serve hot, cut like pizza."
+      }
+    ]
+  },
+  {
+    "category": "chhoila",
+    "recipes": [
+      {
+        "name": "Traditional Buffalo Chhoila",
+        "cooking_time": "40 mins",
+        "ingredients": "500g boneless buffalo meat, 2 tbsp mustard oil, 1 tbsp ginger paste, 1 tbsp garlic paste, 1 tsp ground cumin, 1 tsp ground coriander, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp timur (Sichuan pepper) powder, 2 green chilies chopped, 1 small red onion sliced, juice of 1 lime, salt to taste, fresh coriander leaves, 1 tbsp fenugreek seeds (optional)",
+        "directions": "1. Grill or boil buffalo meat until tender, then cut into bite-sized pieces.\n2. Heat mustard oil in a pan, add fenugreek seeds and fry until aromatic; pour hot oil over the meat.\n3. Mix the meat with ginger-garlic paste, cumin, coriander, turmeric, chili powder, timur powder, and salt.\n4. Add chopped green chilies, sliced onions, lime juice, and fresh coriander.\n5. Toss everything well and serve cold or at room temperature."
+      },
+      {
+        "name": "Chicken Chhoila",
+        "cooking_time": "35 mins",
+        "ingredients": "500g boneless chicken thighs, 3 tbsp mustard oil, 1 tbsp ginger paste, 1 tbsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp turmeric powder, 2 tsp chili powder, 1 tsp timur powder, 2 green chilies finely chopped, ½ sliced onion, juice of 1 lemon, salt to taste, fresh coriander leaves",
+        "directions": "1. Grill or pan-fry chicken thighs until cooked and slightly charred.\n2. Cut chicken into small pieces.\n3. Heat mustard oil and mix with ginger-garlic paste and spices.\n4. Combine chicken with the spiced oil mixture.\n5. Add green chilies, onion, lemon juice, salt, and coriander.\n6. Mix well and serve fresh or chilled."
+      },
+      {
+        "name": "Vegetarian Chhoila",
+        "cooking_time": "30 mins",
+        "ingredients": "1 cup boiled potatoes diced, 1 cup boiled soy chunks or mushrooms, 2 tbsp mustard oil, 1 tbsp ginger-garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp timur powder, 2 chopped green chilies, 1 sliced onion, juice of 1 lime, salt to taste, fresh coriander leaves",
+        "directions": "1. Boil potatoes and soy chunks, dice them into bite-sized pieces.\n2. Heat mustard oil and mix in ginger-garlic paste and spices.\n3. Toss the potatoes and soy chunks with the spiced oil.\n4. Add green chilies, onions, lime juice, salt, and coriander.\n5. Stir thoroughly and serve as a vegetarian alternative."
+      }
+    ]
+  },
+  {
+    "category": "chiya",
+    "recipes": [
+      {
+        "name": "Nepali Milk Tea",
+        "cooking_time": "8-12 mins",
+        "ingredients": "2 cups water, 1 cup milk, 2 tsp black tea leaves, sugar to taste",
+        "directions": "1. Boil water in a pan.\n2. Add black tea leaves and simmer for 2-3 minutes.\n3. Add milk and sugar, bring to boil.\n4. Strain into cups and serve hot."
+      },
+      {
+        "name": "Spiced Chiya",
+        "cooking_time": "12-15 mins",
+        "ingredients": "2 cups water, 1 cup milk, 2 tsp black tea leaves, 2 cardamom pods, 1 small cinnamon stick, 1 tsp grated ginger, sugar to taste",
+        "directions": "1. Boil water with cardamom, cinnamon, and grated ginger.\n2. Add black tea leaves and simmer 2 minutes.\n3. Pour in milk and sugar, bring to boil.\n4. Strain and serve hot."
+      },
+      {
+        "name": "Ginger Chiya",
+        "cooking_time": "10-12 mins",
+        "ingredients": "2 cups water, 1 cup milk, 2 tsp black tea leaves, 1 tsp fresh ginger (crushed), sugar to taste",
+        "directions": "1. Boil water with crushed ginger.\n2. Add tea leaves and simmer 2 minutes.\n3. Add milk and sugar, bring to boil.\n4. Strain and enjoy hot."
+      },
+      {
+        "name": "Masala Chiya",
+        "cooking_time": "12-15 mins",
+        "ingredients": "2 cups water, 1 cup milk, 2 tsp black tea leaves, 1 cardamom pod, 1 small piece of cloves, 1/2 inch cinnamon stick, sugar to taste",
+        "directions": "1. Boil water with cardamom, cloves, and cinnamon.\n2. Add tea leaves and simmer for 2-3 minutes.\n3. Add milk and sugar, bring to boil.\n4. Strain and serve hot."
+      },
+      {
+        "name": "Black Chiya",
+        "cooking_time": "7-10 mins",
+        "ingredients": "2 cups water, 2 tsp black tea leaves, sugar to taste",
+        "directions": "1. Boil water in a pan.\n2. Add black tea leaves and simmer 2-3 minutes.\n3. Add sugar, stir well.\n4. Strain and serve hot without milk."
+      }
+    ]
+  },
+  {
+    "category": "dalbhat",
+    "recipes": [
+      {
+        "name": "Classic Nepali Dal Bhat",
+        "cooking_time": "60-75 mins",
+        "ingredients": "1 cup mixed lentils (red, green, brown), 1 tbsp ghee or oil, 1 tsp cumin seeds, 1 onion finely chopped, 2-3 cloves garlic minced, 1 tbsp minced ginger, 1 chopped tomato, 1 tsp turmeric, 1 tsp coriander powder, salt to taste, 4 cups water, 2 cups rice, 4 cups water for rice",
+        "directions": "1. Rinse and soak lentils for 30 minutes.\n2. Boil water and cook lentils with turmeric and salt until soft (~35-45 mins).\n3. Heat ghee/oil in a pan, sauté cumin seeds, onions, garlic, ginger, then add tomatoes and coriander powder until fragrant.\n4. Mix tempering into cooked dal and simmer 5-10 mins.\n5. Cook rice separately until done.\n6. Serve dal with steamed rice and seasonal vegetable sides."
+      },
+      {
+        "name": "Thakali Style Dal Bhat with Tarkari",
+        "cooking_time": "55-70 mins",
+        "ingredients": "1 cup red lentils, 1 medium tomato, 1 tbsp oil, 1 tsp cumin seeds, 1 tsp turmeric, 1 tsp coriander powder, salt to taste, 2 cups rice, For Tarkari: 2 medium potatoes, 1/2 cauliflower, 1/2 cup peas, 1 onion, 2 cloves garlic, 1-inch ginger, 1 tsp mustard seeds, 1 tsp chili powder, 1 tsp turmeric, salt, oil",
+        "directions": "1. Cook lentils with turmeric and salt until soft.\n2. Temper with cumin seeds, sautéed garlic and onion.\n3. Cook rice separately.\n4. Prepare tarkari: sauté onion, garlic, ginger, mustard seeds, add chopped vegetables, chili, turmeric, and salt. Cook until tender.\n5. Serve dal, rice, and tarkari together."
+      },
+      {
+        "name": "Vegetarian Spinach Dal Bhat",
+        "cooking_time": "50-65 mins",
+        "ingredients": "1 cup red lentils, 2 cups chopped spinach, 1 tsp turmeric, 1 tbsp oil, 1 tsp mustard seeds, 2 cloves garlic minced, 1 medium onion chopped, 1 tsp cumin seeds, 2 cups rice, salt to taste",
+        "directions": "1. Cook lentils with turmeric until soft.\n2. Heat oil, add mustard seeds and cumin seeds, sauté onion and garlic.\n3. Add chopped spinach and cook until wilted.\n4. Combine spinach mixture with dal, simmer 5-10 mins.\n5. Cook rice separately.\n6. Serve dal with rice and side vegetables."
+      },
+      {
+        "name": "Gundruk Dal Bhat",
+        "cooking_time": "60-75 mins",
+        "ingredients": "1 cup mixed lentils (red or green), 1/2 cup dried gundruk (fermented leafy greens), 1 tbsp oil, 1 tsp cumin seeds, 1 medium onion, 2 cloves garlic, 1-inch ginger, 1 tsp turmeric, salt to taste, 2 cups rice, 4 cups water for rice",
+        "directions": "1. Soak lentils for 20-30 mins, then cook until soft (~30-40 mins).\n2. Chop gundruk and set aside.\n3. Heat oil, sauté cumin seeds, onion, garlic, and ginger.\n4. Add turmeric and gundruk, sauté 3-5 mins.\n5. Combine with cooked lentils and simmer 5-10 mins.\n6. Cook rice separately and serve with gundruk dal."
+      }
+    ]
+  },
+  {
+    "category": "dhindo",
+    "recipes": [
+      {
+        "name": "Traditional Buckwheat Dhindo",
+        "cooking_time": "20-25 mins",
+        "ingredients": "1 cup buckwheat flour (kodo ko pitho), 3 cups water, pinch of salt",
+        "directions": "1. Boil water with a pinch of salt in a pan.\n2. Gradually add buckwheat flour to boiling water while stirring continuously to prevent lumps.\n3. Cook on medium heat, stirring constantly until thick and dough-like.\n4. Once the flour is cooked and absorbs the water, reduce heat and cook for another 5 minutes.\n5. Serve hot with gundruk ko achar, meat curry, or lentil soup."
+      },
+      {
+        "name": "Maize Flour Dhindo",
+        "cooking_time": "15-20 mins",
+        "ingredients": "1 cup maize flour (makai ko pitho), 3 cups water, salt to taste",
+        "directions": "1. Boil water with salt in a pot.\n2. Slowly add maize flour while stirring vigorously.\n3. Cook on low-medium heat, stirring continuously until the mixture thickens into a stiff dough.\n4. Cook for additional 3-5 minutes to cook thoroughly.\n5. Serve with curry or achar."
+      },
+      {
+        "name": "Finger Millet Dhindo",
+        "cooking_time": "20-25 mins",
+        "ingredients": "1 cup finger millet flour (kodo ko pitho), 3 cups water, salt to taste",
+        "directions": "1. Boil water with salt.\n2. Gradually add finger millet flour while stirring vigorously to avoid lumps.\n3. Cook until thick like dough and thoroughly cooked, about 20 minutes.\n4. Serve with vegetable curry, ghee, or lentils."
+      },
+      {
+        "name": "Mixed Grain Dhindo",
+        "cooking_time": "25-30 mins",
+        "ingredients": "1/2 cup buckwheat flour, 1/2 cup maize flour, 3 cups water, salt to taste",
+        "directions": "1. Boil water with salt.\n2. Mix flours and slowly add to boiling water while stirring.\n3. Cook stirring continuously until thick and cooked through.\n4. Serve traditionally with achar or curry."
+      },
+      {
+        "name": "Corn Flour Dhindo with Spinach",
+        "cooking_time": "25 mins",
+        "ingredients": "1 cup maize flour, 3 cups water, 1 cup finely chopped spinach, salt to taste",
+        "directions": "1. Boil water with salt.\n2. Add maize flour gradually and stir till dough forms.\n3. Add chopped spinach and cook for another 5 minutes.\n4. Serve hot with side dishes."
+      }
+    ]
+  },
+  {
+    "category": "friedrice",
+    "recipes": [
+      {
+        "name": "Egg Fried Rice (Bhuteko Bhat)",
+        "cooking_time": "20-30 mins",
+        "ingredients": "3 cups cooked rice, 3 eggs scrambled, 1 cup mixed vegetables (carrots, peas), 1 onion chopped, 3 tbsp oil, 4 tbsp soy sauce, salt and pepper to taste",
+        "directions": "1. Heat oil, sauté onion and vegetables.\n2. Push veggies aside, scramble eggs in pan.\n3. Add cooked rice, soy sauce, salt, and pepper.\n4. Stir-fry till well mixed and heated.\n5. Serve hot."
+      },
+      {
+        "name": "Nepali Chicken Fried Rice",
+        "cooking_time": "45-55 mins",
+        "ingredients": "2 cups white rice, 3 tbsp vegetable oil, 1 cardamom pod, 2 cloves, 2 bay leaves, 1 large onion chopped, 2 cups chopped boneless chicken, 1.5 tsp salt, 0.5 tsp turmeric, 2 cloves garlic minced, 1 tsp garam masala, 2 cups water, chopped cilantro",
+        "directions": "1. Soak rice in water and set aside.\n2. Heat oil, add cardamom, cloves, bay leaves, and sauté.\n3. Add onion and cook till golden.\n4. Add chicken and brown.\n5. Stir in salt, turmeric, garlic, garam masala.\n6. Drain rice, add to pan and toast.\n7. Add water, simmer and cook until rice done.\n8. Garnish with cilantro and serve."
+      },
+      {
+        "name": "Vegetable Pulao (Nepali Fried Rice)",
+        "cooking_time": "30-40 mins",
+        "ingredients": "1¼ cups basmati rice, 1½ tsp oil, ½ cup green peas, 1 large onion chopped, ½ large tomato chopped, 1 tbsp lemon juice, ½ tsp ginger paste, 1 tsp garlic paste, ¼ tsp turmeric, ⅓ tsp cumin, 2-3 green chilies, salt to taste, whole spices (bay leaf, cardamom, cinnamon, cloves)",
+        "directions": "1. Rinse and soak rice.\n2. Heat oil, add whole spices, sauté.\n3. Add ginger, garlic, chilies, onions, tomato, peas, cook 2-3 mins.\n4. Drain rice, add and stir gently.\n5. Add water and salt, cook covered until done.\n6. Finish with lemon juice and serve."
+      },
+      {
+        "name": "Nepali Egg and Chicken Fried Rice",
+        "cooking_time": "25-35 mins",
+        "ingredients": "3 cups cooked rice, 250g diced chicken, 3 eggs scrambled, 1 onion chopped, 1 cup mixed vegetables, 3 tbsp oil, 4 tbsp soy sauce, salt and pepper to taste",
+        "directions": "1. Heat oil, cook chicken till done.\n2. Add onions and vegetables, sauté.\n3. Push aside, scramble eggs.\n4. Add rice, soy sauce, salt, and pepper.\n5. Stir-fry and serve hot."
+      },
+      {
+        "name": "Veg Fried Rice with Mixed Pickle (Achaar)",
+        "cooking_time": "25-30 mins",
+        "ingredients": "3 cups cooked rice, 1 cup mixed veggies, 3 tbsp oil, 3 tbsp soy sauce, 3 tbsp Nepali mixed pickle (achaar), 1 onion chopped, salt and pepper to taste",
+        "directions": "1. Heat oil, sauté onion and veggies.\n2. Add rice, soy sauce, salt, pepper.\n3. Stir-fry well, then mix in achaar.\n4. Serve immediately."
+      },
+      {
+        "name": "Spicy Chicken Fried Rice",
+        "cooking_time": "25-35 mins",
+        "ingredients": "3 cups cooked rice, 300g chicken, 1 onion chopped, 2 green chilies, 3 tbsp vegetable oil, 4 tbsp soy sauce, 1 tsp black pepper, salt to taste",
+        "directions": "1. Heat oil, sauté onion and chilies.\n2. Add chicken pieces, cook through.\n3. Add rice, soy sauce, salt, pepper.\n4. Stir-fry to combine.\n5. Serve hot."
+      }
+    ]
+  },
+  {
+    "category": "gundruk",
+    "recipes": [
+      {
+        "name": "Traditional Gundruk Soup",
+        "cooking_time": "40-50 mins",
+        "ingredients": "1 cup dried gundruk (fermented leafy greens), 1 tbsp mustard oil, 1 large onion chopped, 2 cloves garlic minced, 1 tsp ginger minced, 2 green chilies chopped, 4 cups water or vegetable broth, salt to taste",
+        "directions": "1. Soak dried gundruk in water for 15 minutes.\n2. Heat mustard oil in a pot, sauté onion, garlic, ginger, and chilies till fragrant.\n3. Add soaked gundruk and water/broth.\n4. Bring to boil, simmer for 20 minutes.\n5. Adjust salt and serve hot with rice or bread."
+      },
+      {
+        "name": "Gundruk Dal (Lentil Soup with Gundruk)",
+        "cooking_time": "50-60 mins",
+        "ingredients": "1 cup lentils (toor or red), 1/2 cup dried gundruk, 1 tbsp mustard oil, 1 tsp cumin seeds, 1 onion chopped, 2 garlic cloves minced, 1 tsp turmeric powder, 4 cups water, salt to taste",
+        "directions": "1. Rinse and cook lentils with turmeric and salt until soft.\n2. Soak and chop gundruk.\n3. Heat mustard oil, sauté cumin seeds, onions, garlic.\n4. Add gundruk and sauté 5 minutes.\n5. Mix gundruk sauté into cooked lentils.\n6. Simmer together 10 minutes and serve with rice."
+      },
+      {
+        "name": "Gundruk Ko Achar (Pickled Gundruk)",
+        "cooking_time": "10-15 mins prep, 1 day marination",
+        "ingredients": "1 cup chopped gundruk, 1 tbsp mustard seeds, 2 dried red chilies, 1 tbsp fenugreek seeds, 2 tbsp mustard oil, salt to taste, 1 tbsp lemon juice",
+        "directions": "1. Roast mustard seeds, fenugreek, and chilies, grind coarsely.\n2. Mix spices with chopped gundruk.\n3. Heat mustard oil and pour over gundruk mixture.\n4. Add salt and lemon juice, mix well.\n5. Let marinate overnight before serving."
+      },
+      {
+        "name": "Gundruk with Potatoes and Tomato",
+        "cooking_time": "40-50 mins",
+        "ingredients": "1 cup dried gundruk, 2 medium potatoes cubed, 1 large tomato chopped, 2 tbsp mustard oil, 1 onion chopped, garlic and ginger paste 1 tbsp each, 1 tsp turmeric powder, salt to taste",
+        "directions": "1. Soak gundruk and drain.\n2. Heat oil in pan, sauté onion and ginger-garlic paste.\n3. Add potatoes and turmeric, cook covered 10 mins.\n4. Add tomato and gundruk, cook till potatoes are tender and gundruk soft.\n5. Adjust salt and serve with rice."
+      },
+      {
+        "name": "Gundruk and Spinach Curry",
+        "cooking_time": "35-45 mins",
+        "ingredients": "1 cup dried gundruk, 1 cup fresh spinach, 1 tbsp mustard oil, 1 onion sliced, 2 cloves garlic minced, 1 tsp turmeric powder, 1 tsp chili powder, salt to taste",
+        "directions": "1. Soak gundruk and drain.\n2. Heat oil, sauté onion and garlic.\n3. Add turmeric and chili powder.\n4. Add gundruk and spinach, cook till greens are soft.\n5. Season with salt and serve with beaten rice or dalbhatt."
+      }
+    ]
+  },
+  {
+    "category": "jeri",
+    "recipes": [
+      {
+        "name": "Traditional Jeri",
+        "cooking_time": "60-70 mins",
+        "ingredients": "1 cup all-purpose flour, 1/4 cup semolina (optional), 2 tbsp oil or ghee, 1/2 tsp baking powder, water as needed, oil for deep frying, sugar syrup (1 cup sugar, 1/2 cup water, 1/4 tsp cardamom powder)",
+        "directions": "1. In a bowl, mix flour, semolina, baking powder.\n2. Add oil or ghee and mix thoroughly.\n3. Gradually add water to form a thick, sticky batter. Let it rest 15-20 mins.\n4. Heat oil in deep frying pan over medium heat.\n5. Using a piping bag or cloth with small hole, squeeze batter into hot oil in spiral shapes.\n6. Fry until golden and crisp, turning carefully.\n7. Prepare sugar syrup by boiling sugar and water to one-string consistency; add cardamom.\n8. Soak fried jeri in warm syrup 2-3 mins.\n9. Remove and drain excess syrup. Serve warm or at room temperature."
+      }
+    ]
+  },
+  {
+    "category": "kheer",
+    "recipes": [
+      {
+        "name": "Classic Nepali Kheer",
+        "cooking_time": "45-60 mins",
+        "ingredients": "2 liters buffalo milk, 1/2 cup Basmati rice, 1/2 cup sugar, 1/4 cup mixed nuts (almonds, cashews, pistachios), 1/4 tsp saffron strands soaked in warm milk, 1 tsp cardamom powder, 1 tbsp ghee",
+        "directions": "1. Rinse and soak rice for 30 mins.\n2. Boil milk in a heavy pan and add rice.\n3. Simmer and stir frequently until thickened and rice is cooked (~45-60 mins).\n4. Add sugar, nuts, saffron milk, cardamom, and ghee.\n5. Cook further for 10 mins.\n6. Serve warm or chilled."
+      },
+      {
+        "name": "Nepali Coconut Kheer",
+        "cooking_time": "40-55 mins",
+        "ingredients": "2 liters buffalo milk, 1/2 cup rice, 1/4 cup grated coconut, 1/2 cup sugar, 1/4 tsp cardamom powder, 1 tbsp ghee, mixed nuts",
+        "directions": "1. Prepare rice similarly.\n2. Boil milk with rice and grated coconut.\n3. Simmer till thickened (~40-55 mins).\n4. Add sugar, ghee, nuts, cardamom.\n5. Cook 10 more mins.\n6. Serve."
+      },
+      {
+        "name": "Sweet Makhana Kheer",
+        "cooking_time": "50-60 mins",
+        "ingredients": "2 liters milk, 1/2 cup makhana (lotus seeds), 1/4 cup sugar, 1/4 tsp cardamom powder, nuts, ghee",
+        "directions": "1. Roast and coarsely grind makhana.\n2. Boil milk, add makhana.\n3. After 30 mins, add sugar, ghee, cardamom.\n4. Stir till thickened.\n5. Serve warm or chilled."
+      },
+      {
+        "name": "Rabri Style Kheer",
+        "cooking_time": "60-70 mins",
+        "ingredients": "2 liters buffalo milk, 1/2 cup rice, 1/2 cup sugar, 1 tsp cardamom, saffron strands, mixed nuts, rose water (optional)",
+        "directions": "1. Boil milk, reduce to a thick consistency (~1 hour).\n2. Add rice, cook until soft.\n3. Add sugar, saffron, nuts, cardamom.\n4. Cook until creamy (~30 mins).\n5. Add rose water if desired.\n6. Serve."
+      },
+      {
+        "name": "Healthy Almond & Date(khajur) Kheer",
+        "cooking_time": "45-55 mins",
+        "ingredients": "2 liters buffalo milk, 1/2 cup chopped dates, 1/4 cup almonds, 1/4 cup sugar or honey, 1 tsp cardamom",
+        "directions": "1. Soak almonds, chop dates.\n2. Boil milk, add almonds and dates.\n3. Simmer till thick.\n4. Add sweetener and cardamom.\n5. Serve warm or cold."
+      }
+    ]
+  },
+  {
+    "category": "pakoda",
+    "recipes": [
+      {
+        "name": "Onion Pakoda",
+        "cooking_time": "25-30 mins",
+        "ingredients": "4 onions thinly sliced, 3 green chilies finely chopped, 1 tsp ginger-garlic paste, 1/2 tsp turmeric powder, 2 tsp chili powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 1/2 cups gram flour (besan), salt to taste, water as needed, oil for deep frying",
+        "directions": "1. Mix onions, green chilies, ginger-garlic paste, turmeric, chili, coriander, cumin powders, and salt.\n2. Add gram flour and enough water to bind.\n3. Heat oil for deep frying.\n4. Drop spoonfuls of batter into hot oil.\n5. Fry until golden and crisp.\n6. Drain on paper towels and serve hot."
+      },
+      {
+        "name": "Vegetable Pakoda",
+        "cooking_time": "25-30 mins",
+        "ingredients": "1 cup chopped cabbage, 1 cup grated carrot, 1/2 cup chopped onions, 1/2 cup chopped cilantro, 1/2 tsp ginger paste, 1 tsp cumin seeds, 1/4 tsp turmeric powder, 1/4 tsp asafoetida (hing), 1 cup gram flour, salt to taste, water as needed, oil for frying",
+        "directions": "1. Combine all vegetables with spices and salt.\n2. Add gram flour and water to form thick batter.\n3. Heat oil; drop batter spoonfuls into oil.\n4. Fry until golden brown.\n5. Drain and serve with chutney."
+      },
+      {
+        "name": "Spinach Pakoda (Saag Ko Pakoda)",
+        "cooking_time": "30-35 mins",
+        "ingredients": "500g blanched spinach chopped, 2 medium onions thinly sliced, 1 tsp cumin seeds, 1 tsp chili powder, 1/4 tsp turmeric, 1/5 tsp asafoetida, 1 cup gram flour, salt to taste, oil for frying",
+        "directions": "1. Mix spinach with onions and spices.\n2. Add gram flour, salt and blend well.\n3. Heat oil in pan.\n4. Deep fry spoonfuls until crisp and golden.\n5. Serve hot with sauce or tomato achar."
+      },
+      {
+        "name": "Potato Pakoda",
+        "cooking_time": "20-25 mins",
+        "ingredients": "3 medium potatoes grated, 1 onion chopped, 2 green chilies chopped, 1 tsp cumin seeds, 1 tsp coriander powder, 1/2 tsp turmeric, 1 cup gram flour, salt to taste, oil for frying",
+        "directions": "1. Mix potatoes, onion, chilies, and spices.\n2. Add gram flour and salt to form batter.\n3. Heat oil in frying pan.\n4. Deep fry spoonfuls of batter till golden.\n5. Drain on paper towels and serve."
+      },
+      {
+        "name": "Mixed Vegetable Pakoda",
+        "cooking_time": "30-35 mins",
+        "ingredients": "1/2 cup grated carrot, 1/2 cup chopped cauliflower, 1/2 cup chopped onion, 1/2 cup peas, 1 tsp chili powder, 1/2 tsp turmeric, 1 tsp cumin powder, 1 cup gram flour, salt, oil for deep frying",
+        "directions": "1. Mix all vegetables and spices.\n2. Add gram flour and salt; add water to get batter consistency.\n3. Heat oil and deep fry spoonfuls until golden brown.\n4. Drain and serve."
+      },
+      {
+        "name": "Paneer Pakoda",
+        "cooking_time": "25-30 mins",
+        "ingredients": "200g paneer cut into cubes, 1 cup gram flour, 1/2 tsp chili powder, 1/4 tsp turmeric, 1/2 tsp cumin powder, salt to taste, water, oil for frying",
+        "directions": "1. Mix gram flour and spices with water to form smooth batter.\n2. Dip paneer cubes in batter.\n3. Heat oil and deep fry till golden and crisp.\n4. Drain and serve with chutney."
+      }
+    ]
+  },
+  {
+    "category": "panipuri",
+    "recipes": [
+      {
+        "name": "Traditional Nepali Panipuri",
+        "cooking_time": "45-60 mins",
+        "ingredients": "200 gm semolina (suji), 2 tbsp all-purpose flour (maida), 1 tbsp wheat flour (atta), 1 tbsp cooking oil, water as needed, vegetable oil for deep frying, for green chutney: fresh coriander, mint leaves, green chili, garlic, ginger, lemon juice, black salt, salt; for spicy green water: water, green chutney, tamarind pulp, black salt, chili powder, roasted cumin powder, black pepper powder, salt; for tamarind water: water, tamarind pulp, black salt, chili powder, roasted cumin powder, black pepper powder, salt; for potato stuffing: boiled potatoes, boiled chickpeas/peas, chopped onion, chopped green chili, coriander leaves, roasted cumin powder, black pepper powder, black salt, salt, green chutney, crushed chili flakes",
+        "directions": "1. Prepare dough mixing semolina, flours, oil, and water, roll into thin circles.\n2. Deep fry puris until golden and puffed.\n3. Prepare chutneys and pani (spiced water) as described.\n4. Mix boiled potatoes, chickpeas, onions, spices, and chutney for stuffing.\n5. To serve, make a small hole in puri, fill with stuffing, pour spicy pani and enjoy immediately."
+      }
+    ]
+  },
+  {
+    "category": "pizza",
+    "recipes": [
+      {
+        "name": "Classic Margherita Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "2 1/4 tsp active dry yeast, 1 1/2 cups warm water, 3 1/2 cups all-purpose flour, 2 tbsp olive oil, 1 tsp salt, 1 tsp sugar, 1 cup tomato sauce, 200g fresh mozzarella, fresh basil leaves, olive oil for drizzling, salt to taste",
+        "directions": "1. Activate yeast in warm water with sugar for 5-10 minutes.\n2. Mix flour and salt; add yeast mixture and olive oil.\n3. Knead dough for 10 minutes until smooth; let rise 1 hour.\n4. Preheat oven to highest setting, with pizza stone if available.\n5. Roll out dough, spread tomato sauce, add mozzarella.\n6. Bake for 10-12 minutes until crust golden and cheese bubbly.\n7. Garnish with fresh basil and drizzle olive oil. Serve hot."
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Pizza dough (as above), 1 cup tomato sauce, 150g sliced pepperoni, 200g mozzarella cheese shredded, 1 tsp dried oregano, olive oil",
+        "directions": "1. Prepare dough and preheat oven.\n2. Roll dough, spread tomato sauce.\n3. Sprinkle mozzarella, arrange pepperoni slices.\n4. Sprinkle oregano, drizzle olive oil.\n5. Bake 12-15 minutes until crust and cheese cooked.\n6. Serve hot."
+      },
+      {
+        "name": "Vegetarian Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Pizza dough, 1 cup tomato sauce, 1/2 cup sliced bell peppers, 1/2 cup sliced onions, 1/2 cup sliced mushrooms, 1/4 cup black olives, 200g mozzarella cheese, dried oregano, olive oil",
+        "directions": "1. Prepare dough and preheat oven.\n2. Spread tomato sauce over rolled dough.\n3. Add vegetables and cheese.\n4. Sprinkle oregano and drizzle olive oil.\n5. Bake 12-15 minutes until golden.\n6. Serve warm."
+      },
+      {
+        "name": "BBQ Chicken Pizza",
+        "cooking_time": "1 hr 40 mins",
+        "ingredients": "Pizza dough, 1 cup BBQ sauce, 200g cooked chicken shredded, 1/2 cup sliced red onions, 200g mozzarella cheese, fresh cilantro",
+        "directions": "1. Preheat oven and roll out dough.\n2. Spread BBQ sauce instead of tomato sauce.\n3. Add chicken, onions, cheese.\n4. Bake 12-15 minutes.\n5. Garnish with fresh cilantro before serving."
+      },
+      {
+        "name": "Four Cheese Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Pizza dough, 1 cup tomato sauce, 50g mozzarella, 50g cheddar, 50g parmesan, 50g gorgonzola or blue cheese, olive oil",
+        "directions": "1. Preheat oven.\n2. Roll dough, spread tomato sauce.\n3. Sprinkle all cheeses evenly.\n4. Drizzle olive oil.\n5. Bake 12-15 minutes until cheese bubbly and crust golden.\n6. Serve hot."
+      },
+      {
+        "name": "Buffalo Chicken Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Pizza dough, 1 cup buffalo wing sauce, 200g cooked shredded chicken, 1/2 cup chopped celery, 200g mozzarella cheese, 1/4 cup blue cheese crumbles, olive oil",
+        "directions": "1. Preheat oven and roll dough.\n2. Spread buffalo sauce instead of tomato sauce.\n3. Add chicken and mozzarella.\n4. Bake 12-15 mins.\n5. Garnish with celery and blue cheese.\n6. Serve hot."
+      },
+      {
+        "name": "Mushroom and Truffle Oil Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Pizza dough, 1 cup tomato sauce, 2 cups assorted mushrooms sliced, 200g mozzarella cheese, 1 tbsp truffle oil, 2 cloves garlic minced, olive oil",
+        "directions": "1. Sauté mushrooms and garlic in olive oil.\n2. Roll out dough, spread tomato sauce.\n3. Add sautéed mushrooms and cheese.\n4. Bake for 12-15 mins.\n5. Drizzle truffle oil before serving."
+      },
+      {
+        "name": "Hawaiian Pizza",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Pizza dough, 1 cup tomato sauce, 150g cooked ham slices, 1/2 cup pineapple chunks, 200g mozzarella cheese, olive oil",
+        "directions": "1. Preheat oven.\n2. Roll dough, spread tomato sauce.\n3. Add ham, pineapple, cheese.\n4. Drizzle olive oil.\n5. Bake 12-15 minutes.\n6. Serve warm."
+      }
+    ]
+  },
+  {
+    "category": "roti",
+    "recipes": [
+      {
+        "name": "Traditional Nepali Roti",
+        "cooking_time": "20-30 mins",
+        "ingredients": "2 cups whole wheat flour, 1/2 tsp salt, 3/4 cup warm water (adjust as needed), 1 tbsp oil (optional)",
+        "directions": "1. Mix flour and salt in a bowl.\n2. Gradually add warm water and knead into soft dough.\n3. Cover dough and rest for 30-60 minutes.\n4. Divide into small balls.\n5. Roll each ball into thin circles.\n6. Heat griddle over medium heat and cook each roti until brown spots appear, flipping and pressing edges to puff up.\n7. Optionally, brush with ghee or oil before serving."
+      },
+      {
+        "name": "Fluffy Roti with Baking Powder",
+        "cooking_time": "25-35 mins",
+        "ingredients": "2 cups whole wheat flour, 1/2 tsp salt, 1 tsp baking powder, 3/4 cup warm water, 1 tbsp ghee or oil",
+        "directions": "1. Combine flour, salt, baking powder.\n2. Add warm water gradually, knead into dough.\n3. Let it rest 15-30 minutes.\n4. Roll into thin rounds.\n5. Cook on hot griddle, applying ghee, flip till golden.\n6. Serve warm."
+      },
+      {
+        "name": "Traditional Puri Roti",
+        "cooking_time": "30-40 mins",
+        "ingredients": "2 cups whole wheat flour, 1/2 tsp salt, water as needed, oil for deep frying",
+        "directions": "1. Mix whole wheat flour and salt.\n2. Gradually add water and knead stiff dough.\n3. Divide dough into small balls.\n4. Roll each ball into small discs about 3-4 inches in diameter.\n5. Heat oil in a deep frying pan.\n6. Fry each rolled dough disc in hot oil until puffed and golden.\n7. Remove and drain excess oil.\n8. Serve hot with curry or chutney."
+      },
+      {
+        "name": "Stuffed Roti (Aloo Paratha style)",
+        "cooking_time": "40-45 mins",
+        "ingredients": "2 cups whole wheat flour, boiled mashed potatoes, salt, chili powder, garam masala, chopped green chilies, coriander leaves, ghee/oil",
+        "directions": "1. Prepare dough with flour and water.\n2. Mix potato filling with spices.\n3. Roll dough, place filling inside, seal and roll again.\n4. Cook on hot griddle with ghee/oil until golden and cooked through.\n5. Serve with yogurt or pickle."
+      }
+    ]
+  },
+  {
+    "category": "samosa",
+    "recipes": [
+      {
+        "name": "Traditional Nepali Samosa",
+        "cooking_time": "1 hr 15 mins",
+        "ingredients": "2 cups all-purpose flour, 4 tbsp oil, 1/2 tsp salt, water as needed for dough; for filling: 3 boiled potatoes mashed, 1/2 cup green peas boiled, 1 tsp cumin seeds, 1 tsp coriander powder, 1/2 tsp garam masala, 1/2 tsp turmeric, 1/2 tsp chili powder, 2 tbsp chopped coriander leaves, salt to taste, oil for deep frying",
+        "directions": "1. Mix flour, salt and oil; add water gradually and knead stiff dough; cover and rest.\n2. Heat oil, add cumin seeds. Add boiled potatoes and peas.\n3. Add spices and salt; cook 5-7 mins; add coriander leaves; cool filling.\n4. Divide dough, roll into circles, cut in half.\n5. Form cone with half circle, fill with potato mixture, seal edges.\n6. Heat oil, deep fry samosas until golden and crispy.\n7. Drain and serve hot with chutney."
+      },
+      {
+        "name": "Chicken Samosa",
+        "cooking_time": "1 hr 20 mins",
+        "ingredients": "Samosa dough (same as above); filling: 250g minced chicken, 1 onion chopped, 2 cloves garlic minced, 1 tsp ginger grated, 1/2 tsp garam masala, 1/2 tsp turmeric, 1 tsp chili powder, salt to taste, 1 tbsp oil",
+        "directions": "1. Cook onion, garlic, and ginger in oil.\n2. Add minced chicken and spices; cook until done and dry.\n3. Prepare dough and form samosas as above.\n4. Fill with chicken mixture.\n5. Deep fry until golden.\n6. Serve hot."
+      },
+      {
+        "name": "Vegetable Samosa",
+        "cooking_time": "1 hr 15 mins",
+        "ingredients": "Samosa dough ingredients; filling: boiled potatoes, boiled peas, carrots, finely chopped green beans, 1 tsp cumin seeds, 1/2 tsp turmeric, 1/2 tsp chili powder, salt, coriander leaves",
+        "directions": "1. Prepare dough.\n2. Sauté spices in oil, add mixed vegetables, cook briefly.\n3. Mix with boiled potatoes.\n4. Fill and shape samosas.\n5. Deep fry to crisp golden samosas.\n6. Serve hot."
+      },
+      {
+        "name": "Cheese Samosa",
+        "cooking_time": "1 hr 20 mins",
+        "ingredients": "Samosa dough; filling: 1 cup grated cheese (paneer or processed), 1/4 cup chopped green chilies, salt and pepper to taste, 1 tsp Italian herbs",
+        "directions": "1. Mix cheese with spices.\n2. Prepare dough and shape samosas.\n3. Fill with cheese mixture.\n4. Deep fry or bake until golden.\n5. Serve warm."
+      }
+    ]
+  },
+  {
+    "category": "sekuwa",
+    "recipes": [
+      {
+        "name": "Traditional Nepali Sekuwa",
+        "cooking_time": "1 hr 20 mins (marination included)",
+        "ingredients": "600g boneless chicken, pork, lamb or buffalo meat (cut into chunks), 3 tbsp plain yogurt, 1 tbsp mustard oil, 1 tbsp garlic paste, 1 tbsp ginger paste, 1 tsp ground cumin, 1 tsp coriander powder, 1 tsp turmeric powder, 1 tsp chili powder, 1 tsp garam masala, ½ tsp fenugreek seeds (optional), 1 tsp salt, juice of 1 lemon, 1 tbsp finely chopped fresh coriander, bamboo or metal skewers",
+        "directions": "1. Mix yogurt, mustard oil, garlic paste, ginger paste, spices, salt, lemon juice, and coriander to create marinade.\n2. Add meat and coat well; marinate at least 4 hours or overnight.\n3. Thread meat onto skewers with spaces for even cooking.\n4. Grill over charcoal or bake at 220°C, turning and basting occasionally, until cooked and charred (15–18 minutes).\n5. Rest 5 minutes, garnish with coriander and lemon juice.\n6. Serve hot with onions, salad, or achar."
+      },
+      {
+        "name": "Nepali Mutton Sekuwa",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "400g boneless mutton cubes, ½ cup onion paste, ½ cup thick yogurt, 1 tsp cumin powder, 1 tsp red chili powder, ½ tsp turmeric powder, 1 tsp garam masala, 1½ tbsp ginger-garlic paste, 2-3 tbsp mustard oil, salt, lemon juice, onion rings, lemon wedges",
+        "directions": "1. Mix mutton with onion paste, yogurt, spices, mustard oil, salt, and lemon juice; marinate 1 hour.\n2. Skewer meat.\n3. Grill on charcoal or in oven, basting with mustard oil frequently until cooked (8-10 mins).\n4. Sprinkle garam masala, serve with onions and lemon wedges."
+      },
+      {
+        "name": "Pork Sekuwa",
+        "cooking_time": "1 hr 15 mins",
+        "ingredients": "1 lb pork belly or loin cubed, 1 tsp turmeric powder, 1 tbsp cumin powder, 1 tsp chili powder, 2 tsp freshly ground garlic, 1 tsp freshly ground ginger, 2 tbsp mustard oil, ½ cup plain yogurt (optional), 1 tsp salt",
+        "directions": "1. Mix all ingredients and marinate pork for at least 1 hour.\n2. Skewer pork pieces, leaving gaps.\n3. Grill over high heat, turning every 2-4 minutes until charred and cooked.\n4. Serve hot with lime wedges."
+      },
+      {
+        "name": "Chicken Sekuwa",
+        "cooking_time": "1 hr 20 mins",
+        "ingredients": "600g boneless chicken, 3 tbsp plain yogurt, 1 tbsp mustard oil, 1 tbsp ginger-garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp chili powder, ½ tsp turmeric powder, 1 tsp garam masala, salt, lemon juice, chopped coriander",
+        "directions": "1. Combine yogurt, mustard oil, ginger-garlic paste, spices, salt, lemon juice, and coriander.\n2. Marinate chicken chunks for 4 hours or overnight.\n3. Skewer and grill until cooked and lightly charred.\n4. Serve garnished with fresh coriander and lemon slices."
+      },
+      {
+        "name": "Mixed Meat Sekuwa",
+        "cooking_time": "1 hr 30 mins",
+        "ingredients": "Mix of chicken, pork, and mutton chunks (total 600g), 3 tbsp plain yogurt, 1 tbsp mustard oil, garlic paste, ginger paste, cumin, coriander, chili, turmeric, garam masala, salt, lemon juice, fresh coriander",
+        "directions": "1. Prepare marinade combining yogurt, oils, spices, salt, lemon juice.\n2. Marinate mixed meat pieces 4+ hours.\n3. Skewer and grill, turning and basting frequently until cooked and charred.\n4. Serve hot with typical Nepali side dishes."
+      }
+    ]
+  },
+  {
+    "category": "selroti",
+    "recipes": [
+      {
+        "name": "Traditional Nepali Sel Roti",
+        "cooking_time": "6 hours (including soaking and resting), 50 minutes cooking",
+        "ingredients": "1 kg aged rice (soaked for at least 3 hours), 1 cup sugar, ½ cup cow ghee, 1 tbsp fenugreek seeds, 1/3 tsp baking soda, 750ml sunflower oil for frying, water as needed",
+        "directions": "1. Wash and soak rice for at least 3 hours.\n2. Drain and grind rice to a coarse paste (80% ground).\n3. Mix sugar, ghee, fenugreek seeds, and baking soda into the batter.\n4. Let batter rest for several hours for fermentation.\n5. Heat oil in a wide pan for deep frying.\n6. Shape batter into rings using hands, a ladle, or a piping bag, and fry until golden and puffed.\n7. Drain excess oil on paper towels and cool slightly.\n8. Serve with spiced potato curry, yogurt, or milk tea."
+      },
+      {
+        "name": "Whole Wheat Sel Roti",
+        "cooking_time": "Approx 6 hours including soaking, 50 minutes cooking",
+        "ingredients": "1 kg rice soaked, ½ cup wheat flour, 1 cup sugar, ½ cup ghee, 1/3 tsp baking soda, 750ml oil",
+        "directions": "1. Soak and grind rice.\n2. Mix wheat flour and sugar with batter.\n3. Add ghee and baking soda.\n4. Let rest for fermentation.\n5. Fry shaped rings in hot oil until crisp and golden.\n6. Serve as snack or with meals."
+      },
+      {
+        "name": "Sel Roti with Nutmeg and Cloves",
+        "cooking_time": "6 hours plus 50 minutes cooking time",
+        "ingredients": "1 kg rice soaked, 1 cup sugar, 1/2 cup ghee, 1/4 tsp nutmeg powder, 1/4 tsp ground cloves, 1/3 tsp baking soda, oil for deep frying",
+        "directions": "1. Soak and grind rice.\n2. Add sugar, ghee, nutmeg, cloves, baking soda.\n3. Rest batter for several hours.\n4. Fry rings in hot oil, turning until golden.\n5. Serve warm."
+      },
+      {
+        "name": "Sel Roti with Banana and Cardamom",
+        "cooking_time": "7 hours (including soaking and resting), 50 minutes cooking",
+        "ingredients": "1 kg rice soaked, 1 cup sugar, 1 ripe banana mashed, ½ cup ghee, 1 tsp ground cardamom, 750ml oil for frying",
+        "directions": "1. Soak and grind rice.\n2. Add sugar, mashed banana, ghee, and cardamom to batter.\n3. Rest batter for fermentation.\n4. Fry shaped rings in hot oil till golden.\n5. Serve warm with accompaniments."
+      }
+    ]
+  },
+  {
+    "category": "yomari",
+    "recipes": [
+      {
+        "name": "Traditional Newari Yomari",
+        "cooking_time": "2 hrs",
+        "ingredients": "2 cups rice flour, 1/3 cup all-purpose flour, 2 cups jaggery or chaku (molasses), 1 tbsp sesame seeds, 1/2 cup milk, 2 tbsp ghee, 1/2 cup warm water",
+        "directions": "1. Mix rice flour and all-purpose flour in a bowl.\n2. Gradually add warm water to make a soft, pliable dough.\n3. Prepare filling by melting jaggery (chaku) with ghee and mixing in toasted sesame seeds.\n4. Divide dough into small balls, flatten, and stuff with filling.\n5. Shape the stuffed dough into fish or cone shapes.\n6. Steam the yomari in a steamer for 10-12 minutes until fully cooked.\n7. Serve warm, traditionally during Yomari Punhi festival."
+      },
+      {
+        "name": "Yomari with Dates and Nuts Filling",
+        "cooking_time": "2 hrs 15 mins",
+        "ingredients": "Rice flour dough (as above), 1/2 cup chopped dates, 1/4 cup chopped peanuts, 1/4 cup shredded coconut, 2 tbsp ghee, jaggery to taste",
+        "directions": "1. Prepare dough as above.\n2. For filling, mix chopped dates, peanuts, coconut, melted ghee, and jaggery.\n3. Stuff dough portions with filling.\n4. Shape and steam yomari for 10-12 minutes.\n5. Serve warm."
+      },
+      {
+        "name": "Sweet Sesame Yomari",
+        "cooking_time": "2 hrs",
+        "ingredients": "Rice flour dough, 1/2 cup jaggery, 2 tbsp sesame seeds toasted and ground, 1 tbsp ghee",
+        "directions": "1. Prepare dough as usual.\n2. Mix jaggery, sesame seeds, and ghee for filling.\n3. Stuff and shape yomari.\n4. Steam for 12 minutes.\n5. Serve hot."
+      },
+      {
+        "name": "Chocolate Yomari",
+        "cooking_time": "2 hrs 15 mins",
+        "ingredients": "Rice flour dough, 1/2 cup grated dark chocolate or chocolate chips, 1/4 cup jaggery, 1/4 cup chopped nuts, 1 tbsp ghee",
+        "directions": "1. Prepare dough.\n2. Combine chocolate, jaggery, nuts, and ghee as filling.\n3. Fill dough balls.\n4. Steam for 12 minutes.\n5. Serve warm."
+      },
+      {
+        "name": "Vegetarian Yomari with Coconut and Chaku",
+        "cooking_time": "2 hrs",
+        "ingredients": "Rice flour dough, 1/2 cup grated coconut, 1/2 cup chaku (molasses), 2 tbsp ghee, sesame seeds",
+        "directions": "1. Mix grated coconut and chaku with ghee and sesame seeds.\n2. Stuff dough portions with this filling.\n3. Shape yomari.\n4. Steam for 12 minutes.\n5. Serve hot."
+      },
+      {
+        "name": "Vegan Yomari",
+        "cooking_time": "2 hrs",
+        "ingredients": "Rice flour dough made with water (no milk), 1/2 cup jaggery or maple syrup, ground sesame seeds, coconut oil instead of ghee",
+        "directions": "1. Make dough with rice flour and water.\n2. Mix jaggery, sesame seeds, and coconut oil for filling.\n3. Stuff and shape yomari.\n4. Steam for 10-12 mins.\n5. Enjoy as a vegan snack."
+      }
+    ]
+  },
+  {
+"category": "omelette",
+"recipes": [
+  {
+  "name": "Plain Omelette",
+  "cooking_time": "8-10 mins",
+  "ingredients": "2 eggs, salt to taste, 1 tbsp oil or butter",
+  "directions": "1. Beat eggs with salt.\n2. Heat oil in pan over medium heat.\n3. Pour eggs and cook until edges are set.\n4. Flip and cook briefly.\n5. Serve immediately."
+  },
+{
+"name": "Nepali Masala Omelette",
+"cooking_time": "10-15 mins",
+"ingredients": "2 eggs, 1/4 cup finely chopped onion, 2 tbsp chopped tomato, 1/2 tbsp chopped cilantro, 2 small green chilies finely chopped, 1/2 tsp salt, 1/4 tsp black pepper, 1/4 tsp red chili powder, 1/4 tsp turmeric powder, 1/4 tsp cumin powder, 1 tbsp vegetable oil",
+"directions": "1. Beat eggs in a bowl.\n2. Add chopped onions, tomatoes, cilantro, green chilies, and all spices. Mix well.\n3. Heat oil in a frying pan over medium heat.\n4. Pour egg mixture into the pan and spread evenly.\n5. Cook for 2-3 minutes or until edges start to crisp.\n6. Flip the omelette carefully and cook the other side for 2 minutes.\n7. Serve hot with bread or as preferred."
+},
+{
+"name": "Paneer Omelette",
+"cooking_time": "12-15 mins",
+"ingredients": "2 eggs, 1/4 cup grated paneer (cottage cheese), 1/4 cup chopped onions, 1/4 cup chopped bell peppers, salt and pepper to taste, 1 tbsp oil",
+"directions": "1. Beat eggs with salt and pepper.\n2. Add paneer, onions, and bell peppers to the eggs and mix well.\n3. Heat oil in pan and pour the mixture evenly.\n4. Cook on medium heat until sides set.\n5. Flip and cook the other side until golden.\n6. Serve warm."
+},
+{
+"name": "Cheese Omelette",
+"cooking_time": "12 mins",
+"ingredients": "2 eggs, 1/4 cup grated cheese, salt, pepper, 1 tbsp oil",
+"directions": "1. Beat eggs with salt and pepper.\n2. Pour half the eggs into hot pan.\n3. Sprinkle cheese on top.\n4. Pour remaining eggs and cook until set.\n5. Fold and serve warm."
+},
+{
+"name": "Spicy Chili Omelette",
+"cooking_time": "12-15 mins",
+"ingredients": "2 eggs, 1 finely chopped green chili, 1/4 cup chopped onions, salt, pepper to taste, 1 tbsp oil",
+"directions": "1. Beat eggs with salt and pepper.\n2. Add chopped chili and onions.\n3. Heat oil, pour mixture.\n4. Cook until edges crisp.\n5. Flip and cook other side.\n6. Serve hot."
+},
+{
+"name": "Vegetable Omelette",
+"cooking_time": "15 mins",
+"ingredients": "2 eggs, 1/4 cup chopped onions, 1/4 cup chopped tomatoes, 1/4 cup chopped spinach, salt and pepper, 1 tbsp oil",
+"directions": "1. Beat eggs with salt and pepper.\n2. Mix in all vegetables.\n3. Heat oil and cook mixture on medium heat.\n4. Flip and cook until golden.\n5. Serve hot with bread or rice."
+}
+]
+}
+]
