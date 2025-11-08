@@ -48,12 +48,8 @@ venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
 ```
 
-### 4. Run migrations
-```bash
-python manage.py migrate
-```
 
-### 5. Run the Django server
+### 4. Run the Django server
 ```bash
 python manage.py runserver
 ```
